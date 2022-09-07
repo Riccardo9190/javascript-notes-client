@@ -32,3 +32,4 @@ const JSNoteRoutes = () => {
 }
 
 export default JSNoteRoutes;
+
