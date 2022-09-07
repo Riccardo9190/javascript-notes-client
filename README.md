@@ -25,7 +25,7 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 - Install all dependencies with ```npm install```
 
-<em>Note: Installing all dependencies may take a while for this project. Wait for the complete installation of the dependencies to proceed.</em>
+<em><strong>Note: Installing all dependencies may take a while for this project. Wait for the complete installation of the dependencies to proceed.</strong></em>
 
 - Create a file named '.env' on the root of the project with ```touch .env```
 
