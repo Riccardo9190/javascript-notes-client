@@ -9,12 +9,11 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 #### <em><strong>Note: Maybe the live version doesn't work correctly due to a destabilization of Heroku when calling the api, so I'll leave the steps to run locally and also some project images.</strong></em>
 
-<!-- Simple todo-list application built with Node.js, Express and MongoDB. -->
-
 ### Technologies Used:
 
 - React 
 - Bulma
+- rbx (https://dfee.github.io/rbx/)
 - SCSS
 - Axios
 
@@ -24,7 +23,9 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 - Access the app folder with ```cd javascript_notes```
 
-- Install all dependencies with ```npm install```
+- Install all dependencies with ```npm install -f```
+
+<em>Note: ```-f``` is required because the 'rbx' framework doesn't support the React version used in the project.</em>
 
 - Create a file named '.env' on the root of the project with ```touch .env```
 
@@ -76,35 +77,34 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 <br>
 
 ### Mobile
-<p>
 
-#### - Home screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Register screen            
+#### - Home screen
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/home_mobile.png" /> 
 
-</p>
-<p>
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/home_mobile.png" />ㅤㅤ
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/register_mobile.png" width="380"/> 
-</p>
+<hr/>
+
+#### - Register screen
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/register_mobile.png" />ㅤ
+
+<hr/>
+
+#### - Login screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/login_mobile.png" />
+
+<hr/>
+
+#### - Note screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/note_mobile.png" />ㅤ
+
+<hr/>
+
+#### - Notes screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/notes_mobile.png" />
+
+<hr/>
+
+#### - User edit screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/users_edit_mobile.png" />ㅤㅤㅤㅤ
 
 
-<p>
 
-#### - Login screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Note screen            
-
-</p>
-<p>
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/login_mobile.png" />ㅤㅤ
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/note_mobile.png" width="460"/> 
-</p>
-
-
-<p>
-
-#### - Notes screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Users edit screen            
-
-</p>
-<p>
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/notes_mobile.png" width="485"/>ㅤㅤ
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/users_edit_mobile.png" /> 
-</p>
-ㅤ
