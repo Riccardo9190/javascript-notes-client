@@ -18,13 +18,19 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 - SCSS
 - Axios
 
-### To run locally (Needs the download of JavaScript Notes API)
+### To run locally (Needs the download of [JavaScript Notes API](https://github.com/Riccardo9190/javascript-notes-api))
 
-```git clone https://github.com/Riccardo9190/javascript-notes-client.git```
+- Clone this repository with ```git clone https://github.com/Riccardo9190/javascript-notes-client.git```
 
-```cd javascript_notes```
+- Access the app folder with ```cd javascript_notes```
 
-```npm install && npm start```
+- Install all dependencies with ```npm install```
+
+- Create a file named '.env' on the root of the project with ```touch .env```
+
+- Set the environment variable for API with ```echo "REACT_APP_BASE_API=http://localhost:3001" > .env```
+
+- Run your app with ```npm start``` 
 
 ### Live version
 
