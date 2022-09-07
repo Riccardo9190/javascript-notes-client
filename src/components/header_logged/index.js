@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Navbar, Container, Column, Button, Dropdown } from 'rbx';
-import logoImage from '../../assets/images/logo-white.png';
+import logoImage from '../../assets/images/white-logo.png';
 import "../../styles/header.scss";
 import UsersService from '../../services/users';
 import { Navigate, Link } from "react-router-dom";
