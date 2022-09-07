@@ -46,64 +46,64 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 ### Desktop
 
 #### - Home screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/home_desktop.png" /> 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/home_desktop.png" /> 
 
 <hr/>
 
 #### - Register screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/register_desktop.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/register_desktop.png" />ㅤ
 
 <hr/>
 
 #### - Login screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/login_desktop.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/login_desktop.png" />
 
 <hr/>
 
 #### - Note screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/note_desktop.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/note_desktop.png" />ㅤ
 
 <hr/>
 
 #### - Notes screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/notes_desktop.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/notes_desktop.png" />
 
 <hr/>
 
 #### - User edit screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/users_edit_desktop.png" />ㅤㅤㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/users_edit_desktop.png" />ㅤㅤㅤㅤ
 
 <hr/>
 
 ### Mobile
 
 #### - Home screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/home_mobile.png" /> 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/home_mobile.png" /> 
 
 <hr/>
 
 #### - Register screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/register_mobile.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/register_mobile.png" />ㅤ
 
 <hr/>
 
 #### - Login screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/login_mobile.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/login_mobile.png" />
 
 <hr/>
 
 #### - Note screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/note_mobile.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/note_mobile.png" />ㅤ
 
 <hr/>
 
 #### - Notes screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/notes_mobile.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/notes_mobile.png" />
 
 <hr/>
 
 #### - User edit screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/users_edit_mobile.png" />ㅤㅤㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/mobile/users_edit_mobile.png" />ㅤㅤㅤㅤ
 
 
 
