@@ -42,15 +42,12 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 
 ## Project Images
 
-#### Desktop
+### Desktop
 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/home_desktop.png" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Home screen</strong>
+#### - Home screen
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/home_desktop.png" /> 
 
+<hr/>
 
-
-<br>
-<br>
-
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/register_desktop.png" />ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Register screen</strong>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
+#### - Register screen
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/register_desktop.png" />ㅤ
