@@ -38,6 +38,11 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 
 <em><strong>Remember that the live version maybe have some Heroku problems</strong></em>
 
+<hr/>
 
-### Project Images
+## Project Images
+
+#### Desktop
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/home_desktop.png" width="550"/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
