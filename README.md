@@ -51,3 +51,60 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 
 #### - Register screen
 <img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/register_desktop.png" />ㅤ
+
+<hr/>
+
+#### - Login screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/login_desktop.png" />
+
+<hr/>
+
+#### - Note screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/note_desktop.png" />ㅤ
+
+<hr/>
+
+#### - Notes screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/notes_desktop.png" />
+
+<hr/>
+
+#### - User edit screen 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/users_edit_desktop.png" />ㅤㅤㅤㅤ
+
+<hr/>
+<br>
+
+### Mobile
+<p>
+
+#### - Home screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Register screen            
+
+</p>
+<p>
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/home_mobile.png" />ㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/register_mobile.png" width="380"/> 
+</p>
+
+
+<p>
+
+#### - Login screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Note screen            
+
+</p>
+<p>
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/login_mobile.png" />ㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/note_mobile.png" width="460"/> 
+</p>
+
+
+<p>
+
+#### - Notes screenㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Users edit screen            
+
+</p>
+<p>
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/notes_mobile.png" width="485"/>ㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/mobile/users_edit_mobile.png" /> 
+</p>
+ㅤ
