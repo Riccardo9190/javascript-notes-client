@@ -74,7 +74,6 @@ You can check the live version here: https://js-notes-clnt.herokuapp.com/
 <img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/images/desktop/users_edit_desktop.png" />ㅤㅤㅤㅤ
 
 <hr/>
-<br>
 
 ### Mobile
 
