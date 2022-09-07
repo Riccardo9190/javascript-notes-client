@@ -21,11 +21,11 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 - Clone this repository with ```git clone https://github.com/Riccardo9190/javascript-notes-client.git```
 
-- Access the app folder with ```cd javascript_notes```
+- Access the app folder with ```cd javascript-notes-client```
 
-- Install all dependencies with ```npm install -f```
+- Install all dependencies with ```npm install```
 
-<em>Note: ```-f``` is required because the 'rbx' framework doesn't support the React version used in the project.</em>
+<em>Note: Installing all dependencies may take a while for this project. Wait for the complete installation of the dependencies to proceed.</em>
 
 - Create a file named '.env' on the root of the project with ```touch .env```
 
