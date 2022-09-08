@@ -17,7 +17,7 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 - SCSS
 - Axios
 
-### To run locally (Needs the download of [JavaScript Notes API](https://github.com/Riccardo9190/javascript-notes-api))
+### To Run Locally (Needs the download of [JavaScript Notes API](https://github.com/Riccardo9190/javascript-notes-api))
 
 - Clone this repository with ```git clone https://github.com/Riccardo9190/javascript-notes-client.git```
 
