@@ -1,4 +1,4 @@
-# JavaScript Notes
+# Javascript Notes
 
 A responsive note app inspired in 'Evernote'. 
 
