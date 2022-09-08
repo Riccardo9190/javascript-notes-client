@@ -33,11 +33,11 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 - Run your app with ```npm start``` 
 
-### Live version
+### Live Version
 
 You can check the live version here: https://js-notes-clnt.herokuapp.com/
 
-<em><strong>Remember that the live version maybe have some Heroku problems</strong></em>
+<em><strong>Remember that the live version maybe have some Heroku problems.</strong></em>
 
 <hr/>
 
