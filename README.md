@@ -35,9 +35,9 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 ### Live Version
 
-You can check the live version here: https://js-notes-clnt.herokuapp.com/
+~~You can check the live version here: https://js-notes-clnt.herokuapp.com/~~
 
-<em><strong>Remember that the live version maybe have some Heroku problems.</strong></em>
+Update: Heroku server disabled.
 
 <hr/>
 
