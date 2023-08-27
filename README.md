@@ -44,29 +44,29 @@ Update: Heroku server disabled.
 ## Project Images
 
 ### - Home screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/home_desktop.png" /> 
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/home.png" /> 
 
 <hr/>
 
 ### - Register screen
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/register_desktop.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/register.png" />ㅤ
 
 <hr/>
 
 ### - Login screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/login_desktop.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/login.png" />
 
 <hr/>
 
 ### - Note screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/note_desktop.png" />ㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/note.png" />ㅤ
 
 <hr/>
 
 ### - Notes screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/notes_desktop.png" />
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/notes.png" />
 
 <hr/>
 
 ### - User edit screen 
-<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/project_prints/desktop/users_edit_desktop.png" />ㅤㅤㅤㅤ
+<img src="https://github.com/Riccardo9190/javascript-notes-client/blob/master/public/users_edit.png" />ㅤㅤㅤㅤ
