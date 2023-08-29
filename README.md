@@ -7,13 +7,11 @@ the email and password by the same process.
 
 About the notes, there are several ways to edit and autosave. There is also a filter that searches for the desired note.
 
-#### <em><strong>Note: Maybe the live version doesn't work correctly due to a destabilization of Heroku when calling the api, so I'll leave the steps to run locally and also some project images.</strong></em>
-
 ### Technologies Used:
 
 - React 
 - Bulma
-- rbx (https://dfee.github.io/rbx/)
+- [rbx](https://dfee.github.io/rbx/)
 - SCSS
 - Axios
 
@@ -25,11 +23,11 @@ About the notes, there are several ways to edit and autosave. There is also a fi
 
 - Install all dependencies with ```npm install```
 
-<em><strong>Note: Installing all dependencies may take a while for this project. Wait for the complete installation of the dependencies to proceed.</strong></em>
+- Set the environment variable for API:
 
-- Create a file named '.env' on the root of the project with ```touch .env```
-
-- Set the environment variable for API with ```echo "REACT_APP_BASE_API=http://localhost:3001" > .env```
+```shell
+echo "REACT_APP_BASE_API=http://localhost:3001" > .env
+```
 
 - Run your app with ```npm start``` 
 
